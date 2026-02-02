@@ -1,0 +1,20 @@
+match_id,opp_team,round_num,round_winner_side,fp_side,round_end_reason,map_name,opp_round_type,fp_round_type,fp_equip_value,fp_kills,opening_kill,fp_kill_1_ location,fp_kill_2_ location,fp_kill_3_ location,fp_kill_4_ location,fp_kill_5_ location,fp_wep_kill_1,fp_wep_kill_2,fp_wep_kill_3,fp_wep_kill_4,fp_wep_kill_5,fp_death_loc
+2,liquid,1,t,ct,kills,ancient,pistol,pistol,650,,no,,,,,,,,,,,cat
+2,liquid,2,t,ct,kills,ancient,half,low,0,,no,,,,,,,,,,,a_site
+2,liquid,3,ct,ct,kills,ancient,full,full,4700,3,yes,cat,cat,cat,,,m4a4,m4a4,m4a4,,,survived
+2,liquid,4,t,ct,kills,ancient,full,full,5200,,no,,,,,,,,,,,cave
+2,liquid,5,t,ct,bomb,ancient,full,full,5000,,no,,,,,,,,,,,b_site
+2,liquid,6,t,ct,kills,ancient,full,half,700,1,no,b_site,,,,,deagle,,,,,b_site
+2,liquid,7,t,ct,bomb,ancient,full,full,5000,,no,,,,,,,,,,,b_site
+2,liquid,8,t,ct,kills,ancient,full,half,2250,,no,,,,,,,,,,,cat
+2,liquid,9,t,ct,kills,ancient,full,full,4900,,no,,,,,,,,,,,mid
+2,liquid,10,t,ct,kills,ancient,full,low,1650,1,no,b_site,,,,,deagle,,,,,b_site
+2,liquid,11,t,ct,kills,ancient,full,full,5600,1,no,b_ramp,,,,,m4a1s,,,,,b_site
+2,liquid,12,ct,ct,kills,ancient,full,full,3850,,no,,,,,,,,,,,survived
+2,liquid,13,t,t,kills,ancient,pistol,pistol,650,2,yes,cat,cave,,,,glock,glock,,,,cave
+2,liquid,14,t,t,kills,ancient,low,full,4400,4,no,cave,cave,cave,cave,,ak-47,ak-47,ak-47,ak-47,,survived
+2,liquid,15,t,t,bomb,ancient,full,full,4800,1,no,mid,,,,,ak-47,,,,,survived
+2,liquid,16,t,t,bomb,ancient,full,full,4900,1,no,mid,,,,,ak-47,,,,,survived
+2,liquid,17,ct,t,defuse,ancient,half,full,4900,,no,,,,,,,,,,,mid
+2,liquid,18,ct,t,defuse,ancient,full,full,4900,,no,,,,,,,,,,,b_ramp
+2,liquid,19,ct,t,defuse,ancient,full,full,4800,1,no,b_site,,,,,ak-47,,,,,b_site

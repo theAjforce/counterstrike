@@ -1,0 +1,19 @@
+match_id,opp_team,round_num,round_winner_side,fp_side,round_end_reason,map_name,opp_round_type,fp_round_type,fp_equip_value,fp_kills,opening_kill,fp_kill_1_ location,fp_kill_2_ location,fp_kill_3_ location,fp_kill_4_ location,fp_kill_5_ location,fp_wep_kill_1,fp_wep_kill_2,fp_wep_kill_3,fp_wep_kill_4,fp_wep_kill_5,fp_death_loc
+1,mongolz,1,t,ct,bomb,ancient,pistol,pistol,650,1,no,a_site,,,,,p2000,,,,,a_site
+1,mongolz,2,t,ct,bomb,ancient,full,half,2600,,no,,,,,,,,,,,survived
+1,mongolz,3,t,ct,kills,ancient,full,half,2300,,no,,,,,,,,,,,mid
+1,mongolz,4,t,ct,kills,ancient,full,full,5000,1,yes,cat,,,,,m4a4,,,,,a_site
+1,mongolz,5,t,ct,bomb,ancient,full,half,2150,1,no,cat,,,,,deagle,,,,,survived
+1,mongolz,6,t,ct,bomb,ancient,full,full,5400,,no,,,,,,,,,,,cave
+1,mongolz,7,t,ct,bomb,ancient,full,full,5000,,no,,,,,,,,,,,cave
+1,mongolz,8,ct,ct,defuse,ancient,full,full,5600,,no,,,,,,,,,,,ct
+1,mongolz,9,ct,ct,defuse,ancient,full,full,4650,1,no,donut,,,,,m4a1s,,,,,donut
+1,mongolz,10,t,ct,kills,ancient,full,full,4550,2,no,b_site,b_site,,,,m4a4,m4a4,,,,b_site
+1,mongolz,11,ct,ct,kills,ancient,full,low,1650,2,no,cave,cave,,,,five-seven,ak-47,,,,survived
+1,mongolz,12,ct,ct,kills,ancient,full,full,5400,2,yes,b_ramp,b_ramp,,,,fire,ak-47,,,,survived
+1,mongolz,13,ct,t,defuse,ancient,pistol,pistol,1200,1,no,cat,,,,,glock,,,,,ct
+1,mongolz,14,ct,t,defuse,ancient,full,half,3100,,no,,,,,,,,,,,mid
+1,mongolz,15,ct,t,kills,ancient,full,low,1800,,no,,,,,,,,,,,cave
+1,mongolz,16,ct,t,time,ancient,full,full,4200,1,no,cat,,,,,ak-47,,,,,cat
+1,mongolz,17,t,t,kills,ancient,full,full,3650,2,no,b_ramp,cat,,,,ak-47,ak-47,,,,survived
+1,mongolz,18,ct,t,defuse,ancient,full,full,4800,1,no,a_site,,,,,ak-47,,,,,a_site

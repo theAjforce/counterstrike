@@ -1,0 +1,23 @@
+match_id,opp_team,round_num,round_winner_side,fp_side,round_end_reason,map_name,opp_round_type,fp_round_type,fp_equip_value,fp_kills,opening_kill,fp_kill_1_ location,fp_kill_2_ location,fp_kill_3_ location,fp_kill_4_ location,fp_kill_5_ location,fp_wep_kill_1,fp_wep_kill_2,fp_wep_kill_3,fp_wep_kill_4,fp_wep_kill_5,fp_death_loc
+4,virtuspro,1,ct,t,kills,ancient,pistol,pistol,650,,no,,,,,,,,,,,b_site
+4,virtuspro,2,ct,t,kills,ancient,half,low,0,,no,,,,,,,,,,,cat
+4,virtuspro,3,ct,t,defuse,ancient,full,full,4400,,no,,,,,,,,,,,b_ramp
+4,virtuspro,4,ct,t,defuse,ancient,full,low,1850,,no,,,,,,,,,,,a_site
+4,virtuspro,5,t,t,kills,ancient,full,full,4800,1,no,cat,,,,,ak-47,,,,,cat
+4,virtuspro,6,t,t,bomb,ancient,full,full,4400,,no,,,,,,,,,,,survived
+4,virtuspro,7,ct,t,time,ancient,full,full,4800,1,no,b_site,,,,,ak-47,,,,,b_site
+4,virtuspro,8,t,t,bomb,ancient,full,full,4700,,no,b_site,,,,,ak-47,,,,,b_site
+4,virtuspro,9,t,t,bomb,ancient,low,half,3150,1,yes,cat,,,,,mac-10,,,,,survived
+4,virtuspro,10,t,t,bomb,ancient,half,full,3250,2,no,mid,mid,,,,mac-10,mac-10,,,,survived
+4,virtuspro,11,t,t,kills,ancient,full,full,4800,2,no,cat,cat,,,,ak-47,ak-47,,,,survived
+4,virtuspro,12,t,t,kills,ancient,half,full,4900,1,no,b_site,,,,,ak-47,,,,,survived
+4,virtuspro,13,t,ct,kills,ancient,pistol,pistol,650,,no,,,,,,,,,,,b_site
+4,virtuspro,14,t,ct,kills,ancient,full,full,0,,no,,,,,,,,,,,a_site
+4,virtuspro,15,ct,ct,kills,ancient,full,full,4550,,no,,,,,,,,,,,cave
+4,virtuspro,16,t,ct,kills,ancient,full,full,5600,,no,b_site,,,,,m4a4,,,,,b_site
+4,virtuspro,17,ct,ct,kills,ancient,full,full,3050,2,no,a_site,a_site,,,,mp9,mp9,,,,survived
+4,virtuspro,18,ct,ct,defuse,ancient,low,full,5200,,no,,,,,,,,,,,survived
+4,virtuspro,19,ct,ct,kills,ancient,low,full,5200,,no,,,,,,,,,,,b_site
+4,virtuspro,20,t,ct,bomb,ancient,full,full,5600,,no,,,,,,,,,,,survived
+4,virtuspro,21,ct,ct,kills,ancient,full,full,5600,,no,,,,,,,,,,,survived
+4,virtuspro,22,ct,ct,kills,ancient,half,full,5600,,no,,,,,,,,,,,survived
