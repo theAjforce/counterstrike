@@ -1,0 +1,20 @@
+match_id,opp_team,round_num,round_winner_side,fp_side,round_end_reason,map_name,opp_round_type,fp_round_type,fp_equip_value,fp_kills,opening_kill,fp_kill_1_ location,fp_kill_2_ location,fp_kill_3_ location,fp_kill_4_ location,fp_kill_5_ location,fp_wep_kill_1,fp_wep_kill_2,fp_wep_kill_3,fp_wep_kill_4,fp_wep_kill_5,fp_death_loc
+5,betboom,1,t,t,kills,ancient,pistol,pistol,750,1,no,b_site,,,,,glock,,,,,survived
+5,betboom,2,t,t,kills,ancient,low,full,3500,,no,,,,,,,,,,,survived
+5,betboom,3,ct,t,defuse,ancient,full,full,4000,1,no,cave,,,,,galil,,,,,b_site
+5,betboom,4,t,t,kills,ancient,full,full,4400,0,no,,,,,,,,,,,b_ramp
+5,betboom,5,ct,t,kills,ancient,half,full,4900,,no,,,,,,,,,,,a_main
+5,betboom,6,t,t,kills,ancient,full,low,2600,2,yes,b_ramp,b_site,,,,deagle,awp,,,,survived
+5,betboom,7,t,t,kills,ancient,half,full,4900,1,yes,cat,,,,,ak-47,,,,,b_site
+5,betboom,8,t,t,kills,ancient,low,full,4900,,no,,,,,,,,,,,survived
+5,betboom,9,t,t,bomb,ancient,full,full,4900,3,no,cat,b_site,b_site,,,he,ak-47,ak-47,,,survived
+5,betboom,10,t,t,bomb,ancient,low,full,4900,1,yes,b_ramp,,,,,ak-47,,,,,b_site
+5,betboom,11,ct,t,kills,ancient,full,full,4900,,no,,,,,,,,,,,cat
+5,betboom,12,ct,t,kills,ancient,full,full,4300,,no,,,,,,,,,,,red_room
+5,betboom,13,ct,ct,kills,ancient,pistol,pistol,0,1,no,b_site,,,,,usp-s,,,,,survived
+5,betboom,14,ct,ct,kills,ancient,low,full,3750,,no,,,,,,,,,,,survived
+5,betboom,15,t,ct,bomb,ancient,full,full,5000,1,no,cat,,,,,m4a4,,,,,survived
+5,betboom,16,t,ct,kills,ancient,full,low,4100,2,yes,cave,a_site,,,,ak-47,ak-47,,,,a_site
+5,betboom,17,ct,ct,kills,ancient,full,full,4550,,no,,,,,,,,,,,survived
+5,betboom,18,ct,ct,defuse,ancient,low,full,5600,,no,,,,,,,,,,,red_room
+5,betboom,19,ct,ct,kills,ancient,half,full,5400,1,no,b_site,,,,,ak-47,,,,,survived

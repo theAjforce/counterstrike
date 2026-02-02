@@ -1,0 +1,17 @@
+match_id,opp_team,round_num,round_winner_side,fp_side,round_end_reason,map_name,opp_round_type,fp_round_type,fp_equip_value,fp_kills,opening_kill,fp_kill_1_ location,fp_kill_2_ location,fp_kill_3_ location,fp_kill_4_ location,fp_kill_5_ location,fp_wep_kill_1,fp_wep_kill_2,fp_wep_kill_3,fp_wep_kill_4,fp_wep_kill_5,fp_death_loc
+3,3dmax,1,t,t,bomb,ancient,pistol,pistol,900,2,no,b_site,b_site,,,,glock,glock,,,,cat
+3,3dmax,2,t,t,kills,ancient,half,full,4200,1,no,cave,,,,,ak-47,,,,,survived
+3,3dmax,3,t,t,kills,ancient,low,full,4900,1,no,b_site,,,,,ak-47,,,,,survived
+3,3dmax,4,ct,t,defuse,ancient,full,full,4900,,no,,,,,,,,,,,survived
+3,3dmax,5,t,t,kills,ancient,full,full,4900,1,no,cat,,,,,ak-47,,,,,survived
+3,3dmax,6,t,t,kills,ancient,full,full,4900,3,no,cat,cave,cave,,,ak-47,ak-47,ak-47,,,survived
+3,3dmax,7,t,t,bomb,ancient,low,full,4900,2,yes,b_ramp,b_ramp,,,,ak-47,ak-47,,,,b_ramp
+3,3dmax,8,t,t,kills,ancient,full,full,4800,2,no,cat,cat,,,,ak-47,ak-47,,,,donut
+3,3dmax,9,t,t,bomb,ancient,full,full,4900,2,yes,b_ramp,b_site,,,,ak-47,ak-47,,,,b_site
+3,3dmax,10,ct,t,defuse,ancient,full,full,4900,1,no,a_site,,,,,ak-47,,,,,survived
+3,3dmax,11,ct,t,kills,ancient,full,full,4900,,no,,,,,,,,,,,cat
+3,3dmax,12,t,t,kills,ancient,full,full,4900,1,no,a_site,,,,,ak-47,,,,,survived
+3,3dmax,13,ct,ct,defuse,ancient,pistol,pistol,650,1,no,b_site,,,,,usp-s,,,,,b_site
+3,3dmax,14,ct,ct,kills,ancient,half,full,4200,1,no,b_site,,,,,m4a4,,,,,b_site
+3,3dmax,15,ct,ct,kills,ancient,half,full,3550,,no,,,,,,,,,,,b_site
+3,3dmax,16,ct,ct,defuse,ancient,low,full,5600,1,no,b_ramp,,,,,m4a4,,,,,b_ramp
